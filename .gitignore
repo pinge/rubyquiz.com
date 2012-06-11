@@ -1,0 +1,6 @@
+# Ignore bundler config
+/.bundle
+
+# JetBrains IDEs and rvm config
+.idea/**
+.rvmrc
